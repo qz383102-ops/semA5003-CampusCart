@@ -1,6 +1,6 @@
 # semA5003-CampusCart
 5003 group project
-## 代码结构
+## Structure
 ```bash
 semA5003-CampusCart/
 ├── Campus-Cart/
@@ -24,3 +24,23 @@ semA5003-CampusCart/
 │       └── index.js
 ├── 5003.mp4
 └── README.md
+```
+## dependencies
+
+## run locally
+Clone the project
+```bash
+  git clone https://github.com/qz383102-ops/semA5003-CampusCart.git
+```
+Go to server directory and install dependencies
+```bash
+  npm install
+```
+Go to client directory and install dependencies
+```bash
+  npm install
+```
+Start both client and server concurrently from the root directory
+```bath
+  npm run dev
+````
