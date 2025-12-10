@@ -26,7 +26,30 @@ semA5003-CampusCart/
 └── README.md
 ```
 ## dependencies
-
+Dev Dependencies
+```bash
+  "nodemon": "^3.1.11"
+  "concurrently": "^7.6.0"
+```
+Client
+```bash
+  "react": "^18.2.0"
+  "react-dom": "^18.2.0"
+  "react-router-dom": "^6.21.1"
+  "vite": "^5.0.10"
+  "tailwindcss": "^3.4.0"
+  "axios": "^1.6.2"
+  "react-hook-form": "^7.49.2"
+```
+Server
+```bash
+  "express": "^4.18.2"
+  "pg": "^8.8.0"
+  "bcryptjs": "^2.4.3"
+  "jsonwebtoken": "^8.5.1"
+  "helmet": "^4.4.1"
+  "cors": "^2.8.5"
+```
 ## run locally
 Clone the project
 ```bash
